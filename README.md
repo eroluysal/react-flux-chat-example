@@ -1,3 +1,3 @@
-# Installation
+# Installation and start
 
-  npm install && gulp
+    npm install && gulp
